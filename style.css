@@ -23,8 +23,10 @@ display: flex;
 #right-section
 { 
     color:brown;
-    background-color:seashell;
+   
     text-align:center;
     width:100%;
     margin-left:25%;
+    background-image:url("full-bloom/full-bloom.png");
+
 }
